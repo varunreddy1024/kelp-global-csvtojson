@@ -1,9 +1,3 @@
-﻿# kelp-global-csvtojson
-
- Sure! Here's a template for a README file that you can use to submit your project:
-
----
-
 # CSV to JSON Converter API
 
 This project is a simple CSV to JSON converter API built using Node.js, Express.js, PostgreSQL, and custom logic to parse CSV data.
@@ -25,7 +19,7 @@ The CSV to JSON converter API allows users to upload a CSV file, which is then c
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/csv-to-json-converter.git
+git clone https://github.com/varunreddy1024/csv-to-json-converter.git
 ```
 
 2. Navigate to the project directory:
@@ -66,16 +60,6 @@ npm start
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
-For any inquiries or feedback, please contact [Your Name](mailto:your.email@example.com).
-
----
-
-Replace placeholders like `your-username`, `your_postgresql_connection_string`, `absolute_path_to_your_csv_file`, and `Your Name` with appropriate values.
-
-Feel free to customize this template further to better suit your project and preferences.
+For any inquiries or feedback, please contact [Bokka Varun Reddy](mailto:bkkvarun24@gmail.com).
